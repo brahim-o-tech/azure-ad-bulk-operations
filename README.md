@@ -32,7 +32,7 @@ This toolkit uses PowerShell **RunspacePool** to parallelize the workload across
 ---
 
 ## Architecture
-![Architecture](docs/images/architecture.png)
+![Architecture](docs/images/architecture.svg)
 
 ---
 
